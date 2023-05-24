@@ -1,0 +1,16 @@
+.app {
+  background-image: url('https://www.threepac.com/wp-content/uploads/2017/10/portfolio-bg-1.jpg');
+  width: 100vw;
+  height: 100vh;
+}
+
+.main-title {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  margin-bottom: 50px;
+  font-family: system-ui;
+  color: beige;
+  font-weight: 700;
+  font-size: 2em;
+}
